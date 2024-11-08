@@ -1,7 +1,7 @@
-num=int(input("Enter a number:"))
-sum=0
-while num!=0:
-dig=num%10
-sum+=dig
-num=num//10
-print("Sum of digits of number is:",sum)
+let n =10;
+let sum = 0;
+for (i=0 ; i <=n; i++){
+    sum += i;
+
+}
+console.log(sum);
