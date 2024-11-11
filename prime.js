@@ -9,4 +9,4 @@ for (let i = 2; i <= Math.sqrt(num); i++){
 if (num <=1){
     is prime = false;
 }
-console.log(is prime ? num : num});
+console.log(is prime ? num : num);
