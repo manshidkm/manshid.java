@@ -1,7 +1,6 @@
-let length = 5;
-let width = 3;
-let area='';
-function Area(length, width) {
-    return length * width;
+
+function area(length, width) {
+  let areas=length * width;
+  return areas;
 }
-console.log(area);
+console.log(area(5,6));
